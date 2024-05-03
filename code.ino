@@ -41,7 +41,7 @@ char pass[] = "31343@$MR";
 
 BlynkTimer timer;
 
-// This function is called every time the Virtual Pin 0 state changes
+
 BLYNK_WRITE(V0)
 {
  // Set incoming value from pin V0 to a variable
